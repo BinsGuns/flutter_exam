@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>482215074728-lr9q48a47e70n0sdimu06lhavipr6297.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.482215074728-lr9q48a47e70n0sdimu06lhavipr6297</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAA13gjcKh7LqR4txGbPsuBUUVbkPX-5s8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>482215074728</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fluttertest</string>
+	<key>PROJECT_ID</key>
+	<string>portfolio-8f2de</string>
+	<key>STORAGE_BUCKET</key>
+	<string>portfolio-8f2de.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:482215074728:ios:92789dc5ac1e63b306db9d</string>
+	<key>DATABASE_URL</key>
+	<string>https://portfolio-8f2de.firebaseio.com</string>
+</dict>
+</plist>
